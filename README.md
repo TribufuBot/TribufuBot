@@ -1,4 +1,4 @@
-# TribuFu
+# Tribufu
 
 <!--
 <div align="center">
